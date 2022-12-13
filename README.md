@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 --> 👯 I’m looking to collaborate on Data related projects, be it dashboarding, analytics, machine learning or neural network
 
---> 🤔 I’m looking for help with Computer Vision and object detection.
+--> 🤔 I’m looking for help with Reccommendations system, NLP, Computer Vision and object detection.
 
 --> 💬 Ask me about Inclusive AI, Excel, Powerbi, python, machine learning, neural network and Chemical Engineering.
 
