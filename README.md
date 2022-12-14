@@ -1,3 +1,4 @@
+![logo](https://github.com/JaneOrih/JaneOrih/blob/94e1857209c42a7d24efc3b3d3ce93532b01f742/20221214_100159_0000.png)
 ### Hi 👋 there, I am Jane Orih a Data Scientist with a Chemical Engineering Background, as an african venturing in AI, I am passionate about inclusive AI for the development of different sectors in my region.
 
 <!--
